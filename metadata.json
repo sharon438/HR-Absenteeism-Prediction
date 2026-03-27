@@ -1,0 +1,5 @@
+{
+  "name": "HR Analytics - Absenteeism Predictor",
+  "description": "A predictive system for HR departments to analyze employee data and forecast the likelihood of absenteeism using machine learning logic.",
+  "requestFramePermissions": []
+}
