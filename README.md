@@ -1,20 +1,38 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# HR Analytics – Employee Absenteeism Prediction System
 
-# Run and deploy your AI Studio app
+## 📌 Project Overview
+This project predicts whether an employee is likely to be absent using Machine Learning techniques.
 
-This contains everything you need to run your app locally.
+## 🎯 Objective
+To help HR departments make data-driven decisions and reduce productivity loss caused by absenteeism.
 
-View your app in AI Studio: https://ai.studio/apps/710d9d71-a42e-4cfe-b4f5-db7182bd1587
+## 🧠 Technologies Used
+- React (Frontend)
+- Node.js / TypeScript (Backend)
+- Python (Machine Learning Model)
+- HTML, CSS
 
-## Run Locally
+## 📊 Features
+- Input employee details
+- Predict absenteeism
+- Machine learning integration
+- User-friendly interface
 
-**Prerequisites:**  Node.js
+## 📁 Project Structure
+- src/ → React frontend
+- server.ts → Backend server
+- model.pkl → Trained ML model
+- dataset → Employee data
 
+## ⚙️ How to Run
+```bash
+npm install
+npm run dev
+```
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📈 Output
+- Likely to be Absent
+- Not Likely to be Absent
+
+## 👤 Author
+Sharon Santhosh
